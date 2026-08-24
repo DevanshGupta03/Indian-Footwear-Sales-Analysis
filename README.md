@@ -13,6 +13,12 @@
 
 ---
 
+## 📊 Dashboard Preview
+
+![Indian Sports Footwear E-Commerce Dashboard](Dashboard_Screenshot.png)
+
+---
+
 ## 📊 Project Overview
 
 This project is an **India-focused sports footwear e-commerce sales analysis** created using Microsoft Excel.

@@ -181,6 +181,16 @@ The objective was to create a realistic India-focused analytical dataset while m
 
 ---
 
+## 📂 Project Files
+
+| File | Description |
+|---|---|
+| `Indian_Sports_Footwear_Sales_Dashboard.xlsx` | Final Excel workbook containing the interactive dashboard |
+| `Indian_Sports_Footwear_Sales_Data.csv` | Dashboard-ready sales dataset |
+| `Dashboard_Screenshot.png` | Preview image of the dashboard |
+
+---
+
 ## 📊 Dashboard Structure
 
 The dashboard contains five major visualizations:
@@ -250,16 +260,6 @@ Further possible improvements include:
 For the improved version of this project:
 
 👉 **[View Version 2 — Indian Footwear Sales Dashboard](https://github.com/DevanshGupta03/Indian-Footwear-Sales-Dashboard)**
-
----
-
-## 📂 Project Files
-
-| File | Description |
-|---|---|
-| `Indian_Sports_Footwear_Sales_Dashboard.xlsx` | Excel workbook containing the interactive dashboard |
-| `Indian_Sports_Footwear_Sales_Data.csv` | Dashboard-ready sales dataset |
-| `Dashboard_Screenshot.png` | Preview image of the dashboard |
 
 ---
 

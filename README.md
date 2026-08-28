@@ -12,7 +12,53 @@ This project is an India-focused sports footwear e-commerce sales analysis creat
 
 The project started with a publicly available sports footwear sales dataset. The data was cleaned, transformed and adapted into an India-focused business scenario for analytical and portfolio purposes.
 
-The final output is an interactive Excel dashboard designed to provide a quick overview of sales performance, customer behavior, product performance and brand performance.
+This repository represents the **initial version of the project**, where the core dataset structure, KPI framework, PivotTable analysis and interactive dashboard were first developed.
+
+The final output of this version is an interactive Excel dashboard designed to provide a quick overview of sales performance, customer behavior, product performance and brand performance.
+
+---
+
+## 🔄 Project Evolution
+
+This repository represents the **initial iteration** of the Indian sports footwear sales analysis project.
+
+The first version was developed to establish the foundation of the analysis and dashboard.
+
+During further review and testing, several areas were identified where the dataset, calculations, dashboard readability and overall presentation could be improved.
+
+These learnings were later used to develop a more refined version of the project.
+
+### Version 1 — This Repository
+
+The initial version established:
+
+- Sales dataset structure
+- KPI framework
+- PivotTable analysis
+- PivotChart visualizations
+- Dashboard layout
+- Interactive slicers
+- Initial business analysis
+
+### Version 2 — Improved & Refined Version
+
+A later version of the project was developed using an improved and more detailed version of the dataset.
+
+The updated version focuses on:
+
+- Refined dataset structure
+- Improved analytical fields
+- Improved KPI presentation
+- Net Units Sold analysis
+- Order Status analysis
+- Improved dashboard readability
+- Improved chart presentation
+- Better number formatting
+- Additional dashboard testing and validation
+
+👉 **[View the Improved Version — Indian Footwear Sales Dashboard](https://github.com/DevanshGupta03/Indian-Footwear-Sales-Dashboard)**
+
+> The two repositories are intentionally maintained separately to document the progression of the project from its initial implementation to the improved and refined version.
 
 ---
 
@@ -59,7 +105,8 @@ The interactive dashboard includes:
 - Sales Channel slicer
 - Dynamic KPI cards
 - PivotTables and PivotCharts
-- Custom dashboard styling and data visualization
+- Custom dashboard styling
+- Data visualization
 
 ---
 
@@ -134,16 +181,6 @@ The objective was to create a realistic India-focused analytical dataset while m
 
 ---
 
-## 📂 Project Files
-
-| File | Description |
-|---|---|
-| `Indian_Sports_Footwear_Sales_Dashboard.xlsx` | Final Excel workbook containing the interactive dashboard |
-| `Indian_Sports_Footwear_Sales_Data.csv` | Dashboard-ready sales dataset |
-| `Dashboard_Screenshot.png` | Preview image of the final dashboard |
-
----
-
 ## 📊 Dashboard Structure
 
 The dashboard contains five major visualizations:
@@ -186,17 +223,43 @@ This project demonstrates practical skills in:
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Project Outcome
 
-Possible future improvements include:
+This initial version established the foundation for the broader Indian sports footwear sales analysis project.
 
-- Adding advanced Excel formulas and measures
+It demonstrates how a raw sports footwear dataset can be cleaned, transformed and converted into an interactive Excel dashboard for business-oriented analysis.
+
+The experience gained from developing and reviewing this version was later used to create a more refined and detailed Version 2 of the project.
+
+---
+
+## 🔮 Future Improvements
+
+The project was later extended into an improved version with additional refinement and testing.
+
+Further possible improvements include:
+
 - Adding profit and margin analysis
-- Adding monthly/quarterly sales analysis
+- Adding monthly and quarterly sales analysis
 - Adding customer retention analysis
+- Adding advanced Excel formulas and measures
 - Rebuilding the dashboard in Power BI
 - Adding SQL-based analysis
 - Creating automated reporting
+
+For the improved version of this project:
+
+👉 **[View Version 2 — Indian Footwear Sales Dashboard](https://github.com/DevanshGupta03/Indian-Footwear-Sales-Dashboard)**
+
+---
+
+## 📂 Project Files
+
+| File | Description |
+|---|---|
+| `Indian_Sports_Footwear_Sales_Dashboard.xlsx` | Excel workbook containing the interactive dashboard |
+| `Indian_Sports_Footwear_Sales_Data.csv` | Dashboard-ready sales dataset |
+| `Dashboard_Screenshot.png` | Preview image of the dashboard |
 
 ---
 
@@ -208,4 +271,4 @@ Data Analytics Portfolio Project
 
 ---
 
-⭐ If you find this project useful, feel free to explore the dashboard and dataset.
+⭐ If you find this project useful, feel free to explore the dashboard and its improved Version 2.
